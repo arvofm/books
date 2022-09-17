@@ -2,14 +2,8 @@
 
 Some of them come from the dark side.
 
-### A view:
-**General Goods:**
-* ARSIVLER.pdf
-* D&D 5E - Player's Handbook.pdf
-* How to take smart notes.pdf
-* Ragnars-Urban-Survival-A-Hard-Times-Guide-to-Staying-Alive-in-the-City.pdf
-* society.pdf
-
+### A tree view:
+```bash
 .
 ├── General Goods
 │   ├── ARŞİVLER.pdf
@@ -86,6 +80,6 @@ Some of them come from the dark side.
         ├── Modern Physics-Paul A. Tipler .pdf
         ├── Principles of Physics - A Calculus-Based Text (4th Ed) - Serway&Jewett.pdf
         └── University Physics - Sears and Zemansky (14th ed, 2015).pdf
- 
+ ```
 
 
