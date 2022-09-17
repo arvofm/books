@@ -73,9 +73,8 @@ Some of them come from the dark side.
     └── Physics
         ├── # Currently
         │   ├── Feynman Lectures on Physics VOL1.pdf
-        │   ├── Fundamentals Of Physics.pdf
         │   ├── Giancoli, Douglas C-Physics for Scientists and Engineers with Modern Physics [Pearson New International Edition]-Pearson (2014).pdf
-        │   └── Sears and Zemansky's university physics - 13th Ed.pdf
+        │   └── Fundamentals Of Physics.pdf
         ├── An Introduction to Mechanics by Kleppner D., Kolenkow R. (z-lib.org).pdf
         ├── Modern Physics-Paul A. Tipler .pdf
         ├── Principles of Physics - A Calculus-Based Text (4th Ed) - Serway&Jewett.pdf
