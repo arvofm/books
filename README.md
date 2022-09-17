@@ -3,7 +3,7 @@
 Some of them come from the dark side.
 
 ### A tree view:
-```bash
+```
 .
 ├── General Goods
 │   ├── ARŞİVLER.pdf
